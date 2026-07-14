@@ -1,11 +1,3 @@
-**Repository Name:** Microsoft-365-2026-Productivity-Toolkit
-
-**GitHub Description:** Professional templates, macros, and workflow guides for Microsoft 365 2026 — Word, Excel, PowerPoint, Outlook, and Teams.
-
-**GitHub Topics:** microsoft-365, office-2026, word-templates, excel-templates, powerpoint-templates, outlook, onedrive, teams, productivity, automation, vba, collaboration, creative-toolkit, workflow, cloud
-
----
-
 # Microsoft-365-2026-Productivity-Toolkit
 
 Professional collection of templates, macros, and workflow guides for Microsoft 365 2026.
